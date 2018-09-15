@@ -2,4 +2,4 @@
 currentUser='Rania';
 welcomeMessage='contains "Welcome to Flatbook, "'+currentUser+'!';
 excitedWelcomeMessage='WELCOME TO FLATBOOK, '+currentUser.toUpperCase()+'!';
-shortGreeting='Welcome, '+currentUser[0];
+shortGreeting='Welcome, '+currentUser[0]+'!';

@@ -1,2 +1,2 @@
 // Write your code in this file!
-currentUser=
+let currentUser;
